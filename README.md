@@ -1,14 +1,15 @@
 ### 👋 Here Mainor... 
+<div id="header" align="center" style="margin-bottom:25px">  
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" style="border-radius:50px"/>
+</div>
 
 ## I'm a Software Developer :sunglasses:
 
-- ❤️ I love Python and Chess :computer:
+- ❤️ I love Python and Chess ♟️
+- :notebook_with_decorative_cover: Fun fact: I really enjoy `Agatha Christie` Books :male_detective: and `George R.R. Martin` Books :vampire::elf: 
 - 🥅 2022 Goals: Collaborate in Open Source projects!
-- ⚡ Fun fact: I like Chess♟️, Read books :notebook_with_decorative_cover:
 
-<div id="header" align="center" style="margin-bottom:25px">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" style="border-radius:50px"/>
-</div>
+
 
 ### 
 
