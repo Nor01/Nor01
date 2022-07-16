@@ -45,11 +45,6 @@
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Nor01&&include_all_commits=true&count_private=true&bg_color=333333&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=false)
 
 </div>
-
-
-
-
-
  
 <div id="badges"  align="center">
   <a href="https://www.linkedin.com/in/mainor-aguilar-823a9220b/">
@@ -59,3 +54,11 @@
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
+###
+<div id="badges"  align="center">
+    
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+    
+</div>
+
