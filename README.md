@@ -1,10 +1,16 @@
 ### 👋 Here Mainor... 
 
+
 <diV>
 
   <div align="center">
     <a href="#"><img alt="Nor01's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Nor01&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
     <a href="#"><img alt="Nor01's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nor01&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
+    
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Nor01&theme=react)  
+    
+    
    <p align="center"> </p>
     <br/>
     <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
