@@ -9,9 +9,9 @@
 
 - ❤️ I love Python and Laravel🔥.
 - 🥅 2022 Goals: Collaborate in Open Source projects!
-- ⚡ Fun fact: I like Chess♟️, read books :notebook_with_decorative_cover:
+- ⚡ Fun fact: I like Chess♟️, Read books :notebook_with_decorative_cover:
 
-![Nor01's github stats](https://github-readme-stats.vercel.app/api?username=nor01&show_icons=true)
+![Nor01's github stats](https://github-readme-stats.vercel.app/api?username=Nor01&show_icons=true)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Nor01&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
