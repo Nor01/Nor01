@@ -2,7 +2,7 @@
 
 <div id="badges"  align="left">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=808080&lines=80%+of+success+is+just+showing+up.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=038cd4&lines=80%+of+success+is+just+showing+up.)](https://git.io/typing-svg)
     
   </div>
 
@@ -27,38 +27,41 @@
 - :notebook_with_decorative_cover: Fun fact: I really enjoy `Agatha Christie` Books :male_detective: and `George R.R. Martin` ones :vampire::elf: 
 - 🥅 2022 Goals: Collaborate in Open Source projects!
 
-## Github Stats  
-<div align="center">
-  <a href="https://github.com/Nor01">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Nor01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nor01&layout=compact&langs_count=7&theme=dracula" />
-  </a>
-</div>
- <div align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=Nor01&theme=dracula&no-frame=true&margin-w=30&margin-h=20" />
-</div>
-
-<br/>  
-
-<div id="badges"  align="center">
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Nor01&&include_all_commits=true&count_private=true&bg_color=333333&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=false)
-
-</div>
- 
-<div id="badges"  align="center">
-  <a href="https://www.linkedin.com/in/mainor-aguilar-823a9220b/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100071099391234">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-
 ###
 <div id="badges"  align="center">
     
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react)
     
+</div>
+
+### GITHUB STATS 
+
+<diV>
+
+  <div align="center">
+    <a href="#"><img alt="Nor01's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Nor01&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
+    <a href="#"><img alt="Nor01's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nor01&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
+   <p align="center"> <img src="https://komarev.com/ghpvc/?username=Nor01&label=Profile%20views&color=0e75b6&style=flat" alt="Nor01" /> </p>
+    <br/>
+    <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
+  </div>
+
+  <hr/>
+
+  <div>
+    <a href="#"><img alt="Nor01's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Nor01&custom_title=Nor01's%20Contribution%20Graph&bg_color=0D1117&color=5ce1e6&line=FFFFFF&point=5ce1e6&hide_border=true" /></a>
+  <div> 
+</div>
+   
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nor01&column=8&theme=onedark" />
+</div>
+<br/>
+   
+   <div align="center">
+ 
+ ![github contribution grid snake animation](https://raw.githubusercontent.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/output/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/output/github-contribution-grid-snake-sissa-white.svg#gh-light-mode-only)
+  
 </div>
 
