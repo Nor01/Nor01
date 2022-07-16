@@ -1,8 +1,8 @@
 ### 👋 Here Mainor... 
 
-<div id="badges"  align="center">
+<div id="badges"  align="left">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=038cd4&lines=If+you+fail+to+plan+you+plan+to+fail)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=808080&lines=80%+of+success+is+just+showing+up.)](https://git.io/typing-svg)
     
   </div>
 
@@ -30,12 +30,12 @@
 ## Github Stats  
 <div align="center">
   <a href="https://github.com/Nor01">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Nor01&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nor01&layout=compact&langs_count=7&theme=gruvbox" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Nor01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nor01&layout=compact&langs_count=7&theme=dracula" />
   </a>
 </div>
  <div align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=Nor01&theme=gruvbox&no-frame=true&margin-w=30&margin-h=20" />
+   <img src="https://github-profile-trophy.vercel.app/?username=Nor01&theme=dracula&no-frame=true&margin-w=30&margin-h=20" />
 </div>
 
 <br/>  
