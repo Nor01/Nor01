@@ -21,7 +21,7 @@
   
 <div id="badges"  align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=038cd4&lines=50%+of+success+is+just+showing+up.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=038cd4&lines=80%+of+success+is+just+showing+up.)](https://git.io/typing-svg)
     
   </div>
 
