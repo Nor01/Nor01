@@ -4,7 +4,6 @@
     <a href="#"><img alt="Nor01's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Nor01&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
     <a href="#"><img alt="Nor01's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nor01&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
 
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Nor01&theme=react)
 
    <p align="center"> </p>
@@ -22,7 +21,9 @@
   </div>
 
   <div>
-[![Nor01's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Nor01&theme=dracula)](https://github.com/Nor01/github-readme-activity-graph)  <div> 
+    <a href="#"><img alt="Nor01's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Nor01&custom_title=Nor01's%20Contribution%20Graph&bg_color=0D1117&color=5ce1e6&line=FFFFFF&point=5ce1e6&hide_border=true" /></a>
+
+<div> 
 </div>
    
 <div align="center">
