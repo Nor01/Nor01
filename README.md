@@ -16,10 +16,6 @@
 
   </div>
 
-  <div>
-    <a href="#"><img alt="Nor01's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Nor01&custom_title=Nor01's%20Contribution%20Graph&bg_color=0D1117&color=5ce1e6&line=FFFFFF&point=5ce1e6&hide_border=true" /></a>
-
-<div> 
 </div>
    
 <div align="center">
