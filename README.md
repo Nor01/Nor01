@@ -26,7 +26,7 @@
 
 - ❤️ I love Python and Chess ♟️
 - :notebook_with_decorative_cover: Fun fact: I really enjoy `Agatha Christie` Books :male_detective: and `George R.R. Martin` ones :vampire::elf:
-- 🥅 2022 Goals: Collaborate in Open Source projects!
+- 🥅 2023 Goals: Collaborate in Open Source projects!
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
