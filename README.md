@@ -1,4 +1,11 @@
 ### 👋 Here Mainor...
+<div align="center">
+  
+[![Website](https://img.shields.io/website?label=nor01.com&style=for-the-badge&url=https%3A%2F%2Fnor01.com)](https://nor01.com)
+
+</div>
+
+
 
   <div align="center">
 <!--     <a href="#"><img alt="Nor01's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Nor01&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
