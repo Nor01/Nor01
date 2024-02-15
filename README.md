@@ -1,5 +1,3 @@
-### 👋 Welcome to My GitHub World!
-
 <div align="center">
   
 [![Website](https://img.shields.io/website?label=nor01.com&style=for-the-badge&url=https%3A%2F%2Fnor01.com)](https://nor01.com)
